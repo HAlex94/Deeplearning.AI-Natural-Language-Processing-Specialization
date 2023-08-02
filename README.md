@@ -12,9 +12,7 @@
       * [Logistic Regression Model](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_1/Week_1/Labs/C1_W1_lecture_nb_03_logistic_regression_model.ipynb)
       * [Assignment: Logistic Regression](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_1/Week_1/C1_W1_Assignment.ipynb)
 
-
-     
-
+  
 * [Week 2](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/tree/main/Course_1/Week_2)
   
   * [Labs](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/tree/main/Course_1/Week_2/Labs)
