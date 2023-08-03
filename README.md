@@ -131,18 +131,22 @@
     * [Transformer Decoder](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_4/Week_2/Labs/C4_W2_Ungraded_Lab_2_Transformer_Decoder.ipynb)
   * [Assignment: Transformer Summarizer](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_4/Week_2/C4_W2_Assignment.ipynb)
 
-
   &nbsp;
   
-* [Week 3]()
-  * [Labs]()
-  * [Assignment]()
+* [Week 3](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/tree/main/Course_4/Week_3)
+  * [Labs](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/tree/main/Course_4/Week_3/Labs)
+    * [BERT Loss Model](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_4/Week_3/Labs/C4_W3_Assignment_Ungraded_BERT_Loss.ipynb)
+    * [T5 SQuAD Model](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_4/Week_3/Labs/C4_W3_Assignment_Ungraded_T5.ipynb)
+    * [SentencePiece and BPE](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_4/Week_3/Labs/C4_W3_SentencePiece_and_BPE.ipynb)
+  * [Assignment: Question Answering](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_4/Week_3/C4_W3_Assignment.ipynb)
  
 &nbsp;
 
-* [Week 4]()
-  * [Labs]()
-  * [Assignment]()
+* [Week 4](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/tree/main/Course_4/Week_4)
+  * [Labs](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/tree/main/Course_4/Week_4/Labs)
+    * [Reformer Efficient Attention](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_4/Week_4/Labs/C4_W4_Ungraded_Lab_1_Reformer_LSH.ipynb)
+    * [Reversible Residual Networks](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_4/Week_4/Labs/C4_W4_Ungraded_Lab_2_Revnet.ipynb)
+  * [Assignment: Chatbot](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/blob/main/Course_4/Week_4/C4_W4_Assignment.ipynb)
 
 
     
