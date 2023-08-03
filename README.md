@@ -1,4 +1,4 @@
-# DeepLearning: Natural Language Processing Specialization
+# DeepLearning.AI: Natural Language Processing Specialization
 
 ## Course 1: [Natural Language Processing with Classification and Vector Spaces](https://github.com/HAlex94/Deeplearning.AI-Natural-Language-Processing-Specialization/tree/main/Course_1)
 
